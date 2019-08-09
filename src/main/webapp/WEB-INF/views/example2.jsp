@@ -107,6 +107,7 @@ $(function(){
 		})
 		$("#sentence").html(result);
 	}
+	//브런치 시험
 </script>
 </head>
 <body>
