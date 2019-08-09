@@ -107,6 +107,7 @@ $(function(){
 		})
 		$("#sentence").html(result);
 	}
+	///aktmxj
 </script>
 </head>
 <body>
