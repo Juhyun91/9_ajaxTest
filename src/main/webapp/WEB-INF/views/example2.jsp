@@ -107,7 +107,10 @@ $(function(){
 		})
 		$("#sentence").html(result);
 	}
-	///aktmxj
+
+	///aktm
+	//브런치 시험
+>>>>>>> test
 </script>
 </head>
 <body>
